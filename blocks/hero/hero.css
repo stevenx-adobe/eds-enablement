@@ -16,6 +16,11 @@
   color: var(--background-color);
 }
 
+
+.hero.green {
+    color:green;
+  }
+
 .hero picture {
   position: absolute;
   z-index: -1;
